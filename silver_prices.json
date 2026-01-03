@@ -1,39 +1,39 @@
 {
     "BD": {
         "24k": {
-            "buy_price": 515.0,
-            "sell_price": 484.1,
+            "buy_price": 518.18,
+            "sell_price": 487.09,
             "currency": "BDT",
             "source": "bajus.org (Calculated)",
-            "last_updated": "2026-01-03T23:28:28.833119"
+            "last_updated": "2026-01-04T01:01:07.033199"
         },
         "22k": {
             "buy_price": 475.0,
             "sell_price": 446.5,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-03T23:28:28.833119"
+            "last_updated": "2026-01-04T01:01:07.033199"
         },
         "21k": {
             "buy_price": 455.0,
             "sell_price": 427.7,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-03T23:28:28.833119"
+            "last_updated": "2026-01-04T01:01:07.033199"
         },
         "18k": {
             "buy_price": 390.0,
             "sell_price": 366.6,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-03T23:28:28.833119"
+            "last_updated": "2026-01-04T01:01:07.033199"
         },
         "traditional": {
             "buy_price": 290.0,
             "sell_price": 272.6,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-03T23:28:28.833119"
+            "last_updated": "2026-01-04T01:01:07.033199"
         }
     },
     "IN": {
@@ -42,28 +42,28 @@
             "sell_price": 237.0,
             "currency": "INR",
             "source": "bullions.co.in",
-            "last_updated": "2026-01-03T23:28:30.261403"
+            "last_updated": "2026-01-04T01:01:08.127955"
         },
         "22k": {
             "buy_price": 219.0,
             "sell_price": 219.0,
             "currency": "INR",
             "source": "bullions.co.in",
-            "last_updated": "2026-01-03T23:28:30.261403"
+            "last_updated": "2026-01-04T01:01:08.127955"
         },
         "21k": {
             "buy_price": 213.0,
             "sell_price": 213.0,
             "currency": "INR",
             "source": "bullions.co.in",
-            "last_updated": "2026-01-03T23:28:30.261403"
+            "last_updated": "2026-01-04T01:01:08.127955"
         },
         "18k": {
             "buy_price": 189.0,
             "sell_price": 189.0,
             "currency": "INR",
             "source": "bullions.co.in",
-            "last_updated": "2026-01-03T23:28:30.261403"
+            "last_updated": "2026-01-04T01:01:08.127955"
         }
     },
     "MY": {
@@ -72,16 +72,58 @@
             "sell_price": 10.039,
             "currency": "MYR",
             "source": "publicgold.com.my",
-            "last_updated": "2026-01-03T23:28:30.866327"
+            "last_updated": "2026-01-04T01:01:08.466615"
+        },
+        "22k": {
+            "buy_price": 10.113,
+            "sell_price": 9.202,
+            "currency": "MYR",
+            "source": "publicgold.com.my (Calculated)",
+            "last_updated": "2026-01-04T01:01:08.466615"
+        },
+        "21k": {
+            "buy_price": 9.653,
+            "sell_price": 8.784,
+            "currency": "MYR",
+            "source": "publicgold.com.my (Calculated)",
+            "last_updated": "2026-01-04T01:01:08.466615"
+        },
+        "18k": {
+            "buy_price": 8.274,
+            "sell_price": 7.529,
+            "currency": "MYR",
+            "source": "publicgold.com.my (Calculated)",
+            "last_updated": "2026-01-04T01:01:08.466615"
         }
     },
     "TR": {
         "24k": {
-            "buy_price": 105.215,
-            "sell_price": 117.617,
+            "buy_price": 117.617,
+            "sell_price": 105.215,
             "currency": "TRY",
             "source": "haremaltin.com",
-            "last_updated": "2026-01-03T23:28:37.069279"
+            "last_updated": "2026-01-04T01:01:15.854986"
+        },
+        "22k": {
+            "buy_price": 107.816,
+            "sell_price": 96.447,
+            "currency": "TRY",
+            "source": "haremaltin.com (Calculated)",
+            "last_updated": "2026-01-04T01:01:15.854986"
+        },
+        "21k": {
+            "buy_price": 102.915,
+            "sell_price": 92.063,
+            "currency": "TRY",
+            "source": "haremaltin.com (Calculated)",
+            "last_updated": "2026-01-04T01:01:15.854986"
+        },
+        "18k": {
+            "buy_price": 88.213,
+            "sell_price": 78.911,
+            "currency": "TRY",
+            "source": "haremaltin.com (Calculated)",
+            "last_updated": "2026-01-04T01:01:15.854986"
         }
     }
 }
