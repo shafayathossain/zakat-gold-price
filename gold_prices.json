@@ -1,300 +1,300 @@
 {
     "BD": {
         "24k": {
-            "buy_price": 26749.09,
-            "sell_price": 25144.15,
+            "buy_price": 24512.73,
+            "sell_price": 23041.96,
             "currency": "BDT",
             "source": "bajus.org (Calculated)",
-            "last_updated": "2026-01-29T05:31:38.129856+00:00"
+            "last_updated": "2026-02-05T07:27:45.173829+00:00"
         },
         "20k": {
-            "buy_price": 22290.91,
-            "sell_price": 20953.45,
+            "buy_price": 20427.27,
+            "sell_price": 19201.64,
             "currency": "BDT",
             "source": "bajus.org (Calculated)",
-            "last_updated": "2026-01-29T05:31:38.129856+00:00"
+            "last_updated": "2026-02-05T07:27:45.173829+00:00"
         },
         "22k": {
-            "buy_price": 24520.0,
-            "sell_price": 23048.8,
+            "buy_price": 22470.0,
+            "sell_price": 21121.8,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-29T05:31:38.129856+00:00"
+            "last_updated": "2026-02-05T07:27:45.173829+00:00"
         },
         "21k": {
-            "buy_price": 23405.0,
-            "sell_price": 22000.7,
+            "buy_price": 21450.0,
+            "sell_price": 20163.0,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-29T05:31:38.129944+00:00"
+            "last_updated": "2026-02-05T07:27:45.173863+00:00"
         },
         "18k": {
-            "buy_price": 20060.0,
-            "sell_price": 18856.4,
+            "buy_price": 18385.0,
+            "sell_price": 17281.9,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-29T05:31:38.129987+00:00"
+            "last_updated": "2026-02-05T07:27:45.173884+00:00"
         },
         "traditional": {
-            "buy_price": 16550.0,
-            "sell_price": 15557.0,
+            "buy_price": 15045.0,
+            "sell_price": 14142.3,
             "currency": "BDT",
             "source": "bajus.org",
-            "last_updated": "2026-01-29T05:31:38.130026+00:00"
+            "last_updated": "2026-02-05T07:27:45.173904+00:00"
         }
     },
     "IN": {
         "24k": {
-            "buy_price": 16464.0,
-            "sell_price": 16464.0,
+            "buy_price": 15301.0,
+            "sell_price": 15301.0,
             "currency": "INR",
             "source": "ibja.co",
-            "last_updated": "2026-01-29T05:31:39.542472+00:00"
+            "last_updated": "2026-02-05T07:27:46.423903+00:00"
         },
         "22k": {
-            "buy_price": 16068.0,
-            "sell_price": 16068.0,
+            "buy_price": 14934.0,
+            "sell_price": 14934.0,
             "currency": "INR",
             "source": "ibja.co",
-            "last_updated": "2026-01-29T05:31:39.542472+00:00"
+            "last_updated": "2026-02-05T07:27:46.423903+00:00"
         },
         "20k": {
-            "buy_price": 14653.0,
-            "sell_price": 14653.0,
+            "buy_price": 13618.0,
+            "sell_price": 13618.0,
             "currency": "INR",
             "source": "ibja.co",
-            "last_updated": "2026-01-29T05:31:39.542472+00:00"
+            "last_updated": "2026-02-05T07:27:46.423903+00:00"
         },
         "18k": {
-            "buy_price": 13335.0,
-            "sell_price": 13335.0,
+            "buy_price": 12394.0,
+            "sell_price": 12394.0,
             "currency": "INR",
             "source": "ibja.co",
-            "last_updated": "2026-01-29T05:31:39.542472+00:00"
+            "last_updated": "2026-02-05T07:27:46.423903+00:00"
         },
         "14k": {
-            "buy_price": 10619.0,
-            "sell_price": 10619.0,
+            "buy_price": 9869.0,
+            "sell_price": 9869.0,
             "currency": "INR",
             "source": "ibja.co",
-            "last_updated": "2026-01-29T05:31:39.542472+00:00"
+            "last_updated": "2026-02-05T07:27:46.423903+00:00"
         }
     },
     "MY": {
         "24k": {
-            "buy_price": 795.0,
-            "sell_price": 795.0,
+            "buy_price": 750.0,
+            "sell_price": 750.0,
             "currency": "MYR",
             "source": "publicgold.com.my, tomei.com.my",
-            "last_updated": "2026-01-29T05:31:40.499932+00:00"
+            "last_updated": "2026-02-05T07:27:47.711685+00:00"
         },
         "22k": {
-            "buy_price": 730.0,
-            "sell_price": 730.0,
+            "buy_price": 700.0,
+            "sell_price": 700.0,
             "currency": "MYR",
             "source": "publicgold.com.my, tomei.com.my",
-            "last_updated": "2026-01-29T05:31:40.499932+00:00"
+            "last_updated": "2026-02-05T07:27:47.711685+00:00"
         },
         "18k": {
-            "buy_price": 655.0,
-            "sell_price": 655.0,
+            "buy_price": 625.0,
+            "sell_price": 625.0,
             "currency": "MYR",
             "source": "tomei.com.my",
-            "last_updated": "2026-01-29T05:31:40.499932+00:00"
+            "last_updated": "2026-02-05T07:27:47.711685+00:00"
         },
         "9k": {
-            "buy_price": 360.0,
-            "sell_price": 360.0,
+            "buy_price": 345.0,
+            "sell_price": 345.0,
             "currency": "MYR",
             "source": "tomei.com.my",
-            "last_updated": "2026-01-29T05:31:40.499932+00:00"
+            "last_updated": "2026-02-05T07:27:47.711685+00:00"
         }
     },
     "TR": {
         "24k": {
-            "buy_price": 7731.1,
-            "sell_price": 7731.1,
+            "buy_price": 6911.87,
+            "sell_price": 6911.87,
             "currency": "TRY",
             "source": "livepriceofgold.com",
-            "last_updated": "2026-01-29T05:31:41.378005+00:00"
+            "last_updated": "2026-02-05T07:27:48.188757+00:00"
         },
         "22k": {
-            "buy_price": 7086.84,
-            "sell_price": 7086.84,
+            "buy_price": 6335.89,
+            "sell_price": 6335.89,
             "currency": "TRY",
             "source": "livepriceofgold.com",
-            "last_updated": "2026-01-29T05:31:41.378005+00:00"
+            "last_updated": "2026-02-05T07:27:48.188757+00:00"
         },
         "21k": {
-            "buy_price": 6764.71,
-            "sell_price": 6764.71,
+            "buy_price": 6047.89,
+            "sell_price": 6047.89,
             "currency": "TRY",
             "source": "livepriceofgold.com",
-            "last_updated": "2026-01-29T05:31:41.378005+00:00"
+            "last_updated": "2026-02-05T07:27:48.188757+00:00"
         },
         "18k": {
-            "buy_price": 5798.32,
-            "sell_price": 5798.32,
+            "buy_price": 5183.91,
+            "sell_price": 5183.91,
             "currency": "TRY",
             "source": "livepriceofgold.com",
-            "last_updated": "2026-01-29T05:31:41.378005+00:00"
+            "last_updated": "2026-02-05T07:27:48.188757+00:00"
         },
         "14k": {
-            "buy_price": 4522.69,
-            "sell_price": 4522.69,
+            "buy_price": 4043.45,
+            "sell_price": 4043.45,
             "currency": "TRY",
             "source": "livepriceofgold.com",
-            "last_updated": "2026-01-29T05:31:41.378005+00:00"
+            "last_updated": "2026-02-05T07:27:48.188757+00:00"
         }
     },
     "DE": {
         "21k": {
-            "buy_price": 128.9,
-            "sell_price": 128.9,
+            "buy_price": 116.04,
+            "sell_price": 116.04,
             "currency": "EUR",
             "source": "gold.de (Calculated)",
-            "last_updated": "2026-01-29T05:31:42.415042+00:00"
+            "last_updated": "2026-02-05T07:27:48.921253+00:00"
         },
         "24k": {
-            "buy_price": 147.31,
-            "sell_price": 147.31,
+            "buy_price": 132.62,
+            "sell_price": 132.62,
             "currency": "EUR",
             "source": "gold.de",
-            "last_updated": "2026-01-29T05:31:42.415042+00:00"
+            "last_updated": "2026-02-05T07:27:48.921253+00:00"
         },
         "22k": {
-            "buy_price": 134.29,
-            "sell_price": 134.29,
+            "buy_price": 120.95,
+            "sell_price": 120.95,
             "currency": "EUR",
             "source": "gold.de",
-            "last_updated": "2026-01-29T05:31:42.415042+00:00"
+            "last_updated": "2026-02-05T07:27:48.921253+00:00"
         },
         "18k": {
-            "buy_price": 110.38,
-            "sell_price": 110.38,
+            "buy_price": 99.09,
+            "sell_price": 99.09,
             "currency": "EUR",
             "source": "gold.de",
-            "last_updated": "2026-01-29T05:31:42.415042+00:00"
+            "last_updated": "2026-02-05T07:27:48.921253+00:00"
         }
     },
     "NO": {
         "18k": {
-            "buy_price": 1068.59,
-            "sell_price": 1068.59,
+            "buy_price": 959.24,
+            "sell_price": 959.24,
             "currency": "NOK",
             "source": "tavex.no",
-            "last_updated": "2026-01-29T05:31:46.938033+00:00"
+            "last_updated": "2026-02-05T07:27:52.788371+00:00"
         },
         "21k": {
-            "buy_price": 1246.61,
-            "sell_price": 1246.61,
+            "buy_price": 1119.04,
+            "sell_price": 1119.04,
             "currency": "NOK",
             "source": "tavex.no",
-            "last_updated": "2026-01-29T05:31:46.938033+00:00"
+            "last_updated": "2026-02-05T07:27:52.788371+00:00"
         },
         "22k": {
-            "buy_price": 1306.06,
-            "sell_price": 1306.06,
+            "buy_price": 1172.41,
+            "sell_price": 1172.41,
             "currency": "NOK",
             "source": "tavex.no",
-            "last_updated": "2026-01-29T05:31:46.938033+00:00"
+            "last_updated": "2026-02-05T07:27:52.788371+00:00"
         },
         "24k": {
-            "buy_price": 1534.17,
-            "sell_price": 1534.17,
+            "buy_price": 1377.18,
+            "sell_price": 1377.18,
             "currency": "NOK",
             "source": "tavex.no",
-            "last_updated": "2026-01-29T05:31:46.938033+00:00"
+            "last_updated": "2026-02-05T07:27:52.788371+00:00"
         }
     },
     "CA": {
         "24k": {
-            "buy_price": 241.28,
-            "sell_price": 241.15,
+            "buy_price": 217.17,
+            "sell_price": 217.04,
             "currency": "CAD",
             "source": "silvergoldbull.ca",
-            "last_updated": "2026-01-29T05:31:49.718301+00:00"
+            "last_updated": "2026-02-05T07:27:56.418531+00:00"
         },
         "22k": {
-            "buy_price": 221.18,
-            "sell_price": 221.06,
+            "buy_price": 199.08,
+            "sell_price": 198.96,
             "currency": "CAD",
             "source": "silvergoldbull.ca (Calculated)",
-            "last_updated": "2026-01-29T05:31:49.718301+00:00"
+            "last_updated": "2026-02-05T07:27:56.418531+00:00"
         },
         "21k": {
-            "buy_price": 211.12,
-            "sell_price": 211.01,
+            "buy_price": 190.03,
+            "sell_price": 189.91,
             "currency": "CAD",
             "source": "silvergoldbull.ca (Calculated)",
-            "last_updated": "2026-01-29T05:31:49.718301+00:00"
+            "last_updated": "2026-02-05T07:27:56.418531+00:00"
         },
         "18k": {
-            "buy_price": 180.96,
-            "sell_price": 180.86,
+            "buy_price": 162.88,
+            "sell_price": 162.78,
             "currency": "CAD",
             "source": "silvergoldbull.ca (Calculated)",
-            "last_updated": "2026-01-29T05:31:49.718301+00:00"
+            "last_updated": "2026-02-05T07:27:56.418531+00:00"
         }
     },
     "USA": {
         "24k": {
-            "buy_price": 178.06,
-            "sell_price": 178.06,
+            "buy_price": 158.71,
+            "sell_price": 158.71,
             "currency": "USD",
             "source": "findbullionprices.com",
-            "last_updated": "2026-01-29T05:31:51.633080+00:00"
+            "last_updated": "2026-02-05T07:27:59.567856+00:00"
         },
         "22k": {
-            "buy_price": 163.12,
-            "sell_price": 163.12,
+            "buy_price": 145.39,
+            "sell_price": 145.39,
             "currency": "USD",
             "source": "findbullionprices.com",
-            "last_updated": "2026-01-29T05:31:51.633080+00:00"
+            "last_updated": "2026-02-05T07:27:59.567856+00:00"
         },
         "21k": {
-            "buy_price": 155.82,
-            "sell_price": 155.82,
+            "buy_price": 138.88,
+            "sell_price": 138.88,
             "currency": "USD",
             "source": "findbullionprices.com",
-            "last_updated": "2026-01-29T05:31:51.633080+00:00"
+            "last_updated": "2026-02-05T07:27:59.567856+00:00"
         },
         "18k": {
-            "buy_price": 133.56,
-            "sell_price": 133.56,
+            "buy_price": 119.04,
+            "sell_price": 119.04,
             "currency": "USD",
             "source": "findbullionprices.com",
-            "last_updated": "2026-01-29T05:31:51.633080+00:00"
+            "last_updated": "2026-02-05T07:27:59.567856+00:00"
         }
     },
     "UK": {
         "22k": {
-            "buy_price": 118.18,
-            "sell_price": 118.18,
+            "buy_price": 106.97,
+            "sell_price": 106.97,
             "currency": "GBP",
             "source": "bullionbypost.co.uk (Calculated)",
-            "last_updated": "2026-01-29T05:32:00.912321+00:00"
+            "last_updated": "2026-02-05T07:28:15.056165+00:00"
         },
         "21k": {
-            "buy_price": 112.8,
-            "sell_price": 112.8,
+            "buy_price": 102.11,
+            "sell_price": 102.11,
             "currency": "GBP",
             "source": "bullionbypost.co.uk (Calculated)",
-            "last_updated": "2026-01-29T05:32:00.912321+00:00"
+            "last_updated": "2026-02-05T07:28:15.056165+00:00"
         },
         "18k": {
-            "buy_price": 96.69,
-            "sell_price": 96.69,
+            "buy_price": 87.52,
+            "sell_price": 87.52,
             "currency": "GBP",
             "source": "bullionbypost.co.uk (Calculated)",
-            "last_updated": "2026-01-29T05:32:00.912321+00:00"
+            "last_updated": "2026-02-05T07:28:15.056165+00:00"
         },
         "24k": {
-            "buy_price": 128.92,
-            "sell_price": 128.92,
+            "buy_price": 116.69,
+            "sell_price": 116.69,
             "currency": "GBP",
             "source": "bullionbypost.co.uk",
-            "last_updated": "2026-01-29T05:32:00.912321+00:00"
+            "last_updated": "2026-02-05T07:28:15.056165+00:00"
         }
     }
 }
